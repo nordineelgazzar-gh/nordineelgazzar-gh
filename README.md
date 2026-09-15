@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Nordine El Gazzar</h1>
-<h3 align="center">Développeuse front-end passionnée, originaire d'Inde</h3>
+<h3 align="center"> J'apprend le code en C en faisant la piscine de 42
 
 - 🌱 J'apprends actuellement le **C**
 
